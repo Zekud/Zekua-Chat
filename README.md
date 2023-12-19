@@ -21,6 +21,8 @@ Welcome to Zekua Chat, a powerful and user-friendly real-time chatting applicati
 5. **User-Friendly Interface:**
    - Intuitive register and login pages for a straightforward onboarding process.
    - Homepage with a sidebar.
+6. **Sass Styling**:
+   - Utilizes Sass (Syntactically Awesome Stylesheets) for a clean and maintainable stylesheet structure.
 
 ## Dependencies
 
