@@ -119,7 +119,7 @@ function Register() {
             />
             <label htmlFor="file">
               <img src={img} alt="icon" />
-              <span>Add an avatar</span>
+              <span>Add a profile photo</span>
             </label>
             {file && <span className="success">Image uploaded!!</span>}
             <button
