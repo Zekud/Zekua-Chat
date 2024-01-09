@@ -32,4 +32,6 @@ Zekua Chat relies on the following key dependencies:
 - `Firebase` - A comprehensive cloud platform for web and mobile application development.
 - `React Router` - A standard library for routing in React applications.
 
+<b>check the project [Here](https://zekua-chat.zekua.me)</b>
+
 Happy chatting with Zekua Chat! 🚀
